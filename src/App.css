@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+
+.mainDiv {
+  width: 100%;
+  display: flex;
+}
+input {
+  height: 25px;
+  margin-right: 5px;
+}
